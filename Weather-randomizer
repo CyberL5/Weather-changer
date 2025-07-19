@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://github.com/CyberL5/Gagvisual.git"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CyberL5/Gagvisual/refs/heads/main/Gagvisual"))()
 loadstring(game:HttpGet("https://cdn.sourceb.in/bins/8qe6KdeuqX/0", true))() 
