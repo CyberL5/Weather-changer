@@ -1,2 +1,2 @@
 loadstring(game:HttpGet("https://get.nathub.xyz/loader"))()
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/8qe6KdeuqX/0", true))() 
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/8qe6KdeuqX/0", true))()
